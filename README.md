@@ -1,1 +1,1 @@
-# K-nearest-neighbours
+# K-Nearest-Neighbours
